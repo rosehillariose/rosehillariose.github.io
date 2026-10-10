@@ -14,4 +14,4 @@ Hand-built, dependency-free personal site for **Rosemol Hillariose** — Content
 - All internal paths are **relative** (project site under `/rosehillariose.github.io/`).
 
 ## Deploy
-GitHub Pages: repo `rosehillary/rosehillariose.github.io`, published from `main` branch, root path.
+GitHub Pages: repo `rosehillariose/rosehillariose.github.io`, user site — published from `main` at root.
