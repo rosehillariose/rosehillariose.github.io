@@ -1,17 +1,18 @@
-# Rosemol Hillariose — Portfolio Site
+# Portfolio Site
 
-Hand-built, dependency-free personal site for **Rosemol Hillariose** — Content & Knowledge Strategist, AI Safety & Quality Specialist. Redesigned from the original Wix site (rosehillariose.com) with the resume's AI-safety focus front and center.
+Static portfolio website — articles, case studies and design collections — hosted free on GitHub Pages.
 
 ## Pages
-- `index.html` — aurora hero, quick facts, selected work, three disciplines, experience timeline, skills, contact
-- `portfolio.html` — all 8 published pieces with filters and a lightbox (full descriptions from the original site)
-- `resume.html` — full resume with print-friendly styles; PDF at `assets/Rosemol-Hillariose-Resume.pdf`
-- `404.html` — dark 404 with aurora gradient
+- `index.html` — home: hero, highlights, experience timeline, skills, contact
+- `portfolio.html` — 8 portfolio pieces, category filters, lightbox
+- `resume.html` — resume with print-friendly styles; PDF: `assets/Rosemol-Hillariose-Resume.pdf`
+- `404.html` — error page
 
 ## Stack
-- Static HTML + one CSS file + three small vanilla JS files. No frameworks, no build step.
-- Fonts: Space Grotesk (display) + Inter (body) via Google Fonts.
-- All internal paths are **relative** (project site under `/rosehillariose.github.io/`).
+- Static HTML + vanilla CSS/JS (one stylesheet, three small scripts) — no frameworks, no build step
+- Fonts: Space Grotesk (display) and Inter (body) via Google Fonts
+- All internal paths are relative
 
 ## Deploy
-GitHub Pages: repo `rosehillariose/rosehillariose.github.io`, user site — published from `main` at root.
+- Hosted on **GitHub Pages** (user site), published from `main` at the root
+- Every push to `main` redeploys automatically
