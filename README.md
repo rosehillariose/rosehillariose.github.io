@@ -1,6 +1,6 @@
 # Rosemol Hillariose Portfolio
 
-Static portfolio website — articles, case studies and design collections — hosted free on GitHub Pages.
+Portfolio site of Rosemol Hillariose — articles, case studies and design collections.
 
 ## Pages
 - `index.html` — home: hero, highlights, experience timeline, skills, contact
