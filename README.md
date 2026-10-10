@@ -1,4 +1,4 @@
-# Portfolio Site
+# Rosemol Hillariose Portfolio
 
 Static portfolio website — articles, case studies and design collections — hosted free on GitHub Pages.
 
